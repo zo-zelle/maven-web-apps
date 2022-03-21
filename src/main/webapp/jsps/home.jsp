@@ -11,7 +11,6 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
 	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers.
 	We are developing and supporting quality Software Solutions and serving over 100 million clients.
 	We also offer Training for DevOps with Linux and Cloud Engineers.
